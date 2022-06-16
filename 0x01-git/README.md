@@ -1,1 +1,2 @@
-readme non empty kibara
+Edited readme file. By Cynthia Kibara
+Software Engineer
